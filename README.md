@@ -1,4 +1,4 @@
-# Code Repository for: Annotation-Free Prediction of Immunotherapy Response from Single-Cell Transcriptomic Data
+# Annotation-Free Prediction of Immunotherapy Response from Single-Cell Transcriptomic Data
 
 This repository contains the code accompanying the article:
 
