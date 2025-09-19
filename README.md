@@ -35,6 +35,7 @@ pip install -r requirements.txt
 ```
 
 ## 📂 Repository Structure
+```
 .
 ├── data/              # Input data (not included; see below)
 ├── models/            # Saved model weights (.h5)
@@ -42,6 +43,7 @@ pip install -r requirements.txt
 ├── src/               # Source code (preprocessing, models, training, evaluation)
 ├── requirements.txt   # Python dependencies
 └── README.md
+```
 
 ## 📊 Data Availability
 - The raw data used in this study involve patient-level information and cannot be shared publicly.
