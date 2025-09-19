@@ -32,6 +32,7 @@ Experiments were conducted in **Python 3.9** with the following dependencies:
 To install all dependencies:
 ```bash
 pip install -r requirements.txt
+```
 
 ## 📂 Repository Structure
 .
@@ -51,16 +52,19 @@ pip install -r requirements.txt
 ```bash
 git clone https://github.com/<your-username>/<repo-name>.git
 cd <repo-name>
+```
 
 2. Create a Python environment and install dependencies:
 ```bash
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+```
 
 3. Run the main analysis notebook to reproduce results:
 ```bash
 jupyter notebook notebooks/analysis.ipynb
+```
 
 ## 📈 Results Reproduction
 - Running analysis.ipynb will reproduce the main figures (ROC curves, Grad-CAM visualizations, etc.) reported in the paper.
@@ -80,6 +84,7 @@ If you use this code in your research, please cite our paper:
   year    = {2025},
   doi     = {https://doi.org/xxxx}
 }
+```
 
 ## ✉️ Contact
 For questions, please contact the corresponding author: 
