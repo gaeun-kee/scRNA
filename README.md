@@ -34,17 +34,6 @@ To install all dependencies:
 pip install -r requirements.txt
 ```
 
-## Repository Structure
-```
-.
-├── data/              # Input data (not included; see below)
-├── models/            # Saved model weights (.h5)
-├── notebooks/         # Jupyter notebooks for analysis
-├── src/               # Source code (preprocessing, models, training, evaluation)
-├── requirements.txt   # Python dependencies
-└── README.md
-```
-
 ## Data Availability
 - The raw data used in this study involve patient-level information and cannot be shared publicly.
 - Processed datasets (feature matrices, labels) are available upon reasonable request to the corresponding author, as described in the manuscript’s Data Availability Statement.
@@ -71,25 +60,6 @@ jupyter notebook notebooks/analysis.ipynb
 ## Results Reproduction
 - Running analysis.ipynb will reproduce the main figures (ROC curves, Grad-CAM visualizations, etc.) reported in the paper.
 - Pre-trained models are provided in the models/ directory (e.g., best_model_cnn1d.h5, best_model_cnn2d.h5).
-
-## License
-- This repository is distributed under the MIT License.
-- You are free to use, modify, and distribute this code with proper citation.
-
-## Citation
-If you use this code in your research, please cite our paper:
-```bash
-@article{YourCitationKey,
-  title   = {논문 제목},
-  author  = {저자1 and 저자2 and ...},
-  journal = {PLOS ONE},
-  year    = {2025},
-  doi     = {https://doi.org/xxxx}
-}
-```
-
-## Contact
-For questions, please contact the corresponding author: 
 
 
 
