@@ -88,7 +88,7 @@ If you use this code in your research, please cite our paper:
 }
 ```
 
-## ✉️ Contact
+## Contact
 For questions, please contact the corresponding author: 
 
 
