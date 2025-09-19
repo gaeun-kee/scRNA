@@ -9,7 +9,7 @@ DOI: [추후 업데이트 예정]
 
 ---
 
-## 📖 Overview
+## Overview
 This repository provides all source code and scripts used in the study, including:
 
 - **Data preprocessing** (`src/preprocessing.py`)
@@ -20,7 +20,7 @@ This repository provides all source code and scripts used in the study, includin
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 Experiments were conducted in **Python 3.9** with the following dependencies:
 
 - TensorFlow 2.8.0  
@@ -34,7 +34,7 @@ To install all dependencies:
 pip install -r requirements.txt
 ```
 
-## 📂 Repository Structure
+## Repository Structure
 ```
 .
 ├── data/              # Input data (not included; see below)
@@ -45,11 +45,11 @@ pip install -r requirements.txt
 └── README.md
 ```
 
-## 📊 Data Availability
+## Data Availability
 - The raw data used in this study involve patient-level information and cannot be shared publicly.
 - Processed datasets (feature matrices, labels) are available upon reasonable request to the corresponding author, as described in the manuscript’s Data Availability Statement.
 
-## 🚀 How to Run
+## How to Run
 1. Clone the repository: 
 ```bash
 git clone https://github.com/<your-username>/<repo-name>.git
@@ -68,15 +68,15 @@ pip install -r requirements.txt
 jupyter notebook notebooks/analysis.ipynb
 ```
 
-## 📈 Results Reproduction
+## Results Reproduction
 - Running analysis.ipynb will reproduce the main figures (ROC curves, Grad-CAM visualizations, etc.) reported in the paper.
 - Pre-trained models are provided in the models/ directory (e.g., best_model_cnn1d.h5, best_model_cnn2d.h5).
 
-## 📜 License
+## License
 - This repository is distributed under the MIT License.
 - You are free to use, modify, and distribute this code with proper citation.
 
-## ✨ Citation
+## Citation
 If you use this code in your research, please cite our paper:
 ```bash
 @article{YourCitationKey,
