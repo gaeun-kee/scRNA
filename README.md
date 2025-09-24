@@ -9,7 +9,7 @@ DOI: [추후 업데이트 예정]
 
 ---
 ## Pretrained Models
-The pretrained CNN models (.h5) are available on [Zenodo](https://doi.org/10.5281/zenodo.XXXXXXX).
+The pretrained CNN models (.h5) are available on [Zenodo](https://doi.org/10.5281/zenodo.17189060).
 
 ---
 ## Requirements
