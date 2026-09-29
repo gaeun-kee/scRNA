@@ -1,11 +1,11 @@
-# Annotation-Free Prediction of Immunotherapy Response from Single-Cell Transcriptomic Data
+# Annotation-Free Prediction of Immunotherapy Response in Melanoma Using Single-Cell Transcriptomic Data
 
 This repository contains the code accompanying the article:
 
-**Annotation-Free Prediction of Immunotherapy Response from Single-Cell Transcriptomic Data**  
-*Authors: Da Eun Oh, Gaeun Kee, Ji-Hye Oh, Wonkyung Kim, Young Gwang Kang, Chae Won Park, Tae Joon Jun, Chang Ohk Sung*  
-Published in **PLOS ONE** (under review).  
-DOI: To be updated upon publication.
+**Annotation-free prediction of immunotherapy response in melanoma using single-cell transcriptomic data**  
+Da Eun Oh, Gaeun Kee, Ji-Hye Oh, Wonkyung Kim, Young Gwang Kang, Chae Won Park, Tae Joon Jun, and Chang Ohk Sung.  
+*PLOS ONE* 21(2): e0343633 (2026).  
+https://doi.org/10.1371/journal.pone.0343633
 
 ---
 ## Pretrained Models
